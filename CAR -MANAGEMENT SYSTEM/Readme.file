@@ -1,0 +1,31 @@
+# 🚗 Car Management System (Java Console App)
+
+## 📌 Project Description
+
+This is a simple Java-based console application for managing **Showrooms**, **Employees**, and **Cars**. It allows users to add and view details using a menu-driven interface. The project uses **Object-Oriented Programming (OOP)** concepts and Java basics like arrays and interfaces.
+
+---
+
+## 💡 Features
+
+- Add and view **Showrooms**
+- Add and view **Employees**
+- Add and view **Cars**
+- Easy menu-based navigation
+- Uses a common interface for all entities
+
+---
+
+## 🛠 Technologies Used
+
+- Java (Core concepts)
+- Console input using `Scanner`
+
+---
+
+## ▶️ How to Run
+
+1. Clone or download the repository
+2. Compile the code:
+   ```bash
+   javac *.java
