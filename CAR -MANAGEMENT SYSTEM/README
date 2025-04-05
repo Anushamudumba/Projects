@@ -36,7 +36,23 @@ It uses basic Java concepts like classes, arrays, interfaces, and user input.
 1. Compile the code:  
    ```bash
    javac *.java
+2. Run the application:
+    bash:
+  java Main
 
-AUTHOR:
+Project Files:
+--------------
+Main.java – Controls main logic and menu
+
+Showroom.java – Showroom details class
+
+Employees.java – Employee details class
+
+Cars.java – Car details class
+
+utility.java – Interface with set_details() and get_details() methods
+
+🙋‍♀️ Author
 Anusha Mudumba
-LinkedIn:https://www.linkedin.com/in/anusha-mudumba14/
+🔗 LinkedIn
+
