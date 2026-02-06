@@ -35,3 +35,4 @@ public void set_details(){
     total_cars_in_stock = sc.nextInt();
 }
 }
+
